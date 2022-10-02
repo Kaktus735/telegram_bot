@@ -8,3 +8,6 @@ For install use:
 ### Run
 
 Run from `app.py`
+
+Link on telegram bot:
+https://t.me/course_price_checker_kvr_bot
